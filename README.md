@@ -115,5 +115,5 @@ PASS | ADD  15+1 carry | A=1111 B=0001 op=000 | result=10000
 ## 👤 Author
 
 **Aravindhan** — Final year ECE student | VLSI & Embedded Systems  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+📧 aravindhanrajan8@gmail.com 
+🔗 [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aravindhan-rajan-0a9a36325/)
